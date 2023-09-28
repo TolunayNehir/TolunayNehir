@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tolunay Nehir</h1>
 <h3 align="center">A passionate Full Stack Developer from Turkiye</h3>
 
-- 👀 I’m interested in **Web Development,Cyber Security,Machine Learning**
+- 👀 I’m interested in **Web Development, Cyber Security, Machine Learning**
 
-- 🌱 I’m currently learning **Database attacks and Database Security**
+- 🌱 I’m currently learning **Database Attacks and Database Security**
 
 <h3 align="left">About Me:</h3>
 <p align="left"color="blue">
 Hi I'm Tolunay , student from Antalya Belek University at the department of Management Information Systems.
-I work for Full Stack Development and Cyber Security. My future goal is entegrate AI technologies to cyber security and develop them.  
+I work for Full Stack Development and Cyber Security. My future goal is entegrate AI technologies to Cyber Security and develop them.  
 </p>
 
 <h3 align="left">Programming and Markup Languages</h3>
